@@ -1,5 +1,5 @@
 # Pix2Pix
-在PyTorch下实现了Pix2Pix模型，根据数据集实现了自动上色的功能。
+在PyTorch下实现了Pix2Pix模型，根据数据集实现了自动上色的功能。Pix2Pix与其说是一种新的GAN倒不如说是GAN的一种应用方向。毕竟功能极度依赖于数据集。
 Discriminator结构类似于UNet。
 简单测试了一下模型，感觉不大行。有种RGB的味道
 ![x](https://user-images.githubusercontent.com/86835038/145943753-bb136e0c-8f9c-4845-90b8-d5810262e2bd.png)
